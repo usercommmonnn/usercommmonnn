@@ -1,0 +1,6 @@
+{
+  "key.categories.optigui": "OptiGUI",
+  "key.optigui.inspect": "Kopiuj inspekcję do schowka",
+  "optigui.toast.inspector.title": "Inspektor OptiGUI",
+  "optigui.toast.inspector.description": "Inspekcja została skopiowana do schowka"
+}
